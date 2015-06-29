@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">MobileStudies</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="texto1">Nome</string>
+    <string name="texto2">Idade</string>
     <string name="action_settings">Settings</string>
 </resources>
